@@ -11,10 +11,16 @@ elif choice == "2":
     client_program()
 else:
     print("Invalid choice")
+```
 
-##Step 1: Run the server
+##Step 1: Run the server and Client
 
 Open a terminal or command prompt and navigate to the directory where you saved the file. Run the server by typing python chat_py and pressing Enter. You will see the following output:
 
 ```python
+Do you want to run the server or client?
+1. Server
+2. Client
+Enter your choice:
+```
 
